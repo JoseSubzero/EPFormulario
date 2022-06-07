@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenPractico2</string>
+    <string name="FORMULARIO">Formulario escolar</string>
+    <string name="NOMBRE">Nombre</string>
+    <string name="EDAD">Edad</string>
+    <string name="AsginaturasSeleccionadas">Asignaturas seleccionadas</string>
+    <string name="Matematicas">Matemáticas</string>
+    <string name="Lengua">Lengua</string>
+    <string name="Filosofia">Filosofía</string>
+    <string name="Arte">Arte</string>
+    <string name="Geografia">Geografía</string>
+    <string name="Ingles">Inglés</string>
+    <string name="FormaDePago">Forma de pago</string>
+    <string name="EFECTIVO">Efectivo</string>
+    <string name="Transferencia">Transferencia</string>
+    <string name="Tarjeta">Tarjeta</string>
+    <string name="ENVIAR">Enviar</string>
+    <string name="VOLVER">Volver</string>
+</resources>
